@@ -1,3 +1,5 @@
+//João Antonio Dias
+// Isabelly Barbosa Gonçalves
 public class Threads extends Thread {
 
     private static TP05 a = new TP05("Atividade 05", 400, 500, 10, 10);
